@@ -1,6 +1,6 @@
 # Veranote Releases
 
-Official releases for [Veranote](https://veranote.com) - the AI-powered meeting notes app.
+Official releases for [Veranote](https://veranote.app) - the AI-powered meeting notes app.
 
 ## Download
 
