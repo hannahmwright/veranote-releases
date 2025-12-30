@@ -43,8 +43,8 @@ Compare the output with the checksum in the release notes.
 
 ## Support
 
-For issues, feature requests, or questions, please visit our support page or contact support@veranote.com.
+For issues, feature requests, or questions, please visit our support page or contact support@vervetechgroup.com.
 
 ---
 
-© 2024 Veranote. All rights reserved.
+© 2025 Veranote. All rights reserved.
